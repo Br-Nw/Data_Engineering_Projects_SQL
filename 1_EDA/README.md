@@ -3,7 +3,7 @@
 
 An SQL project analysing the data engineer job market in the uk for non remote jobs and globally for remote jobs using real world job posting data. It demonstrates my ability to **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights**.
 
-![Project 1 Overview](.\1EDA\images\1_1_Project1_EDApicc.png)
+![EDA Project](images/1_1_Project1_EDApicc.png)
 
 ## Executive Summary
 
