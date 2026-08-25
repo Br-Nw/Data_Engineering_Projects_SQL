@@ -29,7 +29,7 @@ Typically job market analysts answer questions like:
 
 This project analyses a Duckdb **data warehouse** built using a star schema design. The warehouse structure consists of:
 
-![Data Warehouse](.\images\1_2_Data_Warehouse.png.png)
+![Data Warehouse](images/1_2_Data_Warehouse.png.png)
 
 - **Fact Table:** `job_postings_fact` - Central table containing job posting details (job titles, locations, salaries, dates, etc.)
 - **Dimension Tables:** 
