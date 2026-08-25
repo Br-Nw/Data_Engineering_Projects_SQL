@@ -64,8 +64,8 @@ By querying across these interconnected tables, I extracted insights about skill
 - 👷‍♂️ Orchestration tools: Airflow is functionally  lonesome as the best all round orchestration tool for data engineers in the UK
 
 ### Graphical insights
-![Highest paying skills graph](images\highpay.png)
-![Highest paying skills graph](images\OptimalSkills.png)
+![Highest paying skills graph](images/highpay.png)
+![Highest paying skills graph](images/OptimalSkills.png)
 
 Key tables were processed by openAI's ChatGPT in order to produce the graphs above.
 ## SQL Skills Demonstrated
