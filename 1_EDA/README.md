@@ -51,9 +51,9 @@ By querying across these interconnected tables, I extracted insights about skill
 
 ### Query Structure
 
-1. **[Top Demanded Skills For non-remote workers in the UK](.\01_top_demmanded_skills.sql)** – Identifies the 10 most in-demand skills for non-remote data engineer positions in the UK
-2. **[Top Paying Skills for non-remote data engineers in the UK](.\02_highest-paying_skills.sql)** – Analyzes the 25 highest-paying skills with salary and demand metrics
-3. **[Optimal Skills for remote data engineers globally](.\03_most_optimal_skills.sql)** – Calculates an optimal score using natural log of demand combined with median salary to identify the most valuable skills to learn
+1. **[Top Demanded Skills For non-remote workers in the UK](01_top_demmanded_skills.sql)** – Identifies the 10 most in-demand skills for non-remote data engineer positions in the UK
+2. **[Top Paying Skills for non-remote data engineers in the UK](02_highest-paying_skills.sql)** – Analyzes the 25 highest-paying skills with salary and demand metrics
+3. **[Optimal Skills for remote data engineers globally](03_most_optimal_skills.sql)** – Calculates an optimal score using natural log of demand combined with median salary to identify the most valuable skills to learn
 
 
 ### Key Infomation:
