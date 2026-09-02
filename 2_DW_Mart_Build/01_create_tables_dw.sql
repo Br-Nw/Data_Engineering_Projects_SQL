@@ -1,4 +1,4 @@
--- Creating star schema tables
+-- First step: Creating star schema tables
 
 
 DROP TABLE IF EXISTS skills_job_dim;
