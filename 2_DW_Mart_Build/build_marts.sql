@@ -1,4 +1,4 @@
--- duckdb dw_marts.duckdb -c ".read build_dw_marts.sql"  -- reads entire script
+-- duckdb dw_marts.duckdb -c ".read build_marts.sql"  -- reads entire script
 
 -- First step: Creating star schema tables
 .read 01_create_tables_dw.sql
