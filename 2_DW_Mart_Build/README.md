@@ -50,7 +50,7 @@ The data warehouse implements a star schema with `company_dim`, `skills_dim`, `j
 
 Denormalised table with all dimensions for ad-hoc queries.
 
-![Flat Mart Schema](Images/flat.png)
+![Flat Mart Schema](images/flat.png)
 
 - **SQL File:** [`03_create_flat_mart.sql`](03_create_flat_mart.sql) – Builds denormalised table with all dimensions joined
 - **Purpose:** Denormalised table for quick ad-hoc queries
@@ -71,7 +71,7 @@ Time-series skill demand analysis with additive measures.
 
 Priority role tracking with incremental updates using MERGE operations.
 
-![Priority Mart Schema](Images/merge.png)
+![Priority Mart Schema](images/merge.png)
 
 - **SQL Files:**
   - [`05_create_priority_mart.sql`](05_create_priority_mart.sql) – Initial build of priority roles and jobs snapshot
